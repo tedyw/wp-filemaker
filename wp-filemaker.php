@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: FileMaker
-Description: Connects to your FileMaker Server and provides REST communication.
+Description: Connects to a FileMaker Server and utilizes the REST API.
 Author: Tedy Warsitha
 Version: 0.1
 Text Domain: filemaker
